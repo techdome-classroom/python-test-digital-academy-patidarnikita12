@@ -17,6 +17,7 @@ class Solution(object):
     
 
 obj1 = Solution()
+print(obj1.)
 
   
 
