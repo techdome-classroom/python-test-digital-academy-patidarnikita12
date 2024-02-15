@@ -17,7 +17,7 @@ class Solution(object):
     
 
 obj1 = Solution()
-print(obj1.isValid(s))
+print(obj1.isValid(st))
 
   
 
