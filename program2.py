@@ -4,5 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        list1 = 
+        list1 = []
+        
         pass
