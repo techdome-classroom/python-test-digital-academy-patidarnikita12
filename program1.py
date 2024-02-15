@@ -8,7 +8,11 @@ class Solution(object):
         mydict ={")":"(","}":"{","]":"["}
         for char in s:
             if char in mydict:
-                element1 = list1.pop() if list1 else '#'
+                # element1 = list1.pop() if list1 else '#'
+                if list1:
+                    element1 = list1.pop()
+                else:
+                    pass
                 if mydict[char]!= element1:
                     return False
             else:
