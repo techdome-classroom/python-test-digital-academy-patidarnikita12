@@ -16,7 +16,7 @@ class Solution(object):
         return not list1
     
 
-obj1 = 
+obj1 = Solution()
 
   
 
