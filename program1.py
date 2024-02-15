@@ -19,7 +19,7 @@ class Solution(object):
         return not list1
     
 
-obj1 = Solution()
+object = Solution()
 # print(obj1.isValid("()"))
 # print(obj1.isValid("()[]{}"))
 # print(obj1.isValid("(]"))
