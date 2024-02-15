@@ -20,8 +20,8 @@ class Solution(object):
     
 
 obj1 = Solution()
-print(obj1.isValid("()"))
-print(obj1.isValid("()[]{}"))
-print(obj1.isValid("(]"))
+# print(obj1.isValid("()"))
+# print(obj1.isValid("()[]{}"))
+# print(obj1.isValid("(]"))
   
 
