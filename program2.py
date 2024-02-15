@@ -5,5 +5,5 @@ class Solution(object):
         :rtype: int
         """
         list1 = []
-        myDict ={"I":"1",}
+        myDict ={"I":"1",""}
         pass
