@@ -12,7 +12,7 @@ class Solution(object):
         else:
             return False
 
-    return not stack
+    return not stack 
     
 
 # object = Solution()
